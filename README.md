@@ -21,3 +21,5 @@ O projeto foi desenvolvido durante o curso **DevClub**, com foco em práticas de
 - Layout responsivo, adaptando-se a diferentes tamanhos de tela.
 - Design inspirado no universo do Mario e Luigi, trazendo diversão e estilo.
 
+<h3>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br">DevClub</a></h3>
+
